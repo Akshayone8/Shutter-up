@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shutter-up/static/css/main.0c414b5a.chunk.css",
+    "main.js": "/Shutter-up/static/js/main.b6a1f50c.chunk.js",
+    "main.js.map": "/Shutter-up/static/js/main.b6a1f50c.chunk.js.map",
+    "runtime-main.js": "/Shutter-up/static/js/runtime-main.f9145331.js",
+    "runtime-main.js.map": "/Shutter-up/static/js/runtime-main.f9145331.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Shutter-up/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.699c44ca.chunk.js": "/Shutter-up/static/js/2.699c44ca.chunk.js",
+    "static/js/2.699c44ca.chunk.js.map": "/Shutter-up/static/js/2.699c44ca.chunk.js.map",
+    "index.html": "/Shutter-up/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Shutter-up/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0c414b5a.chunk.css.map": "/Shutter-up/static/css/main.0c414b5a.chunk.css.map",
+    "static/js/2.699c44ca.chunk.js.LICENSE.txt": "/Shutter-up/static/js/2.699c44ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9145331.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.699c44ca.chunk.js",
+    "static/css/main.0c414b5a.chunk.css",
+    "static/js/main.b6a1f50c.chunk.js"
+  ]
+}
